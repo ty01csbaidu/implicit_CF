@@ -1,0 +1,7 @@
+#################
+# colletive filtering alogrithms
+# imf
+# item-based cf
+# data parallel for each trade
+# 1. recommend all item
+# 2. filter buy item
